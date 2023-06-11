@@ -1,0 +1,12 @@
+/*Титульник*/
+.section-title_theme_dark {
+    color: #fff;
+    position: relative;
+    z-index: 1;
+    font-weight: 600;
+    line-height: 1.15;
+    font-size: 60px;
+    width: 60%;
+    margin: 90px auto 20px;
+    text-align: center;
+  }

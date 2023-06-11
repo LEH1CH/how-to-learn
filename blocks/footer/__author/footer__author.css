@@ -1,0 +1,9 @@
+/*Автор*/
+.footer__author {
+  font-weight: normal;
+  line-height: 25px;
+  font-size: 18px;
+  color: #fff;
+  padding: 18px 0 18px;
+  margin: 0;
+}

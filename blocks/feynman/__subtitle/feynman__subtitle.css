@@ -1,0 +1,9 @@
+/*Субтитры*/
+.feynman__subtitle {
+    line-height: 51px;
+    font-size: 36px;
+    color: #000;
+    font-weight: normal;
+    text-align: center;
+    margin: 70px 0 0;
+  }

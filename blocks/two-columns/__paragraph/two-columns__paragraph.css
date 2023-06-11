@@ -1,0 +1,12 @@
+/*Параграфы основного текста*/
+.two-columns__paragraph {
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+  /*Свойство для последнего параграфа обнуляющее отступ*/
+  .two-columns__paragraph:last-of-type {
+    margin-bottom: 0;
+  }

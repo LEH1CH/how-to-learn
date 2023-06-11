@@ -1,0 +1,6 @@
+/*Общий блок с данными*/
+.footer__columns {
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+  }

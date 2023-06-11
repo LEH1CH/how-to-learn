@@ -1,0 +1,8 @@
+/*"Вывод" во втором параграфе*/
+.two-columns__span-accent::before {
+    content: "Вывод: ";
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: 600;
+  }
+  

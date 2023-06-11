@@ -1,0 +1,14 @@
+.cards__item {
+    width: 240px;
+    margin: 0 0 0 100px;
+    list-style-type: none;
+  }
+  
+  .cards__item:first-of-type {
+    margin-left: 0;
+  }
+  
+  .cards__item:nth-of-type(4) {
+    margin-left: 0;
+  }
+  

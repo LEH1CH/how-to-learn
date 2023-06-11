@@ -1,0 +1,12 @@
+/*Титульник*/
+.header__title {
+    justify-content: center;
+    align-self: center;
+    max-width: 730px;
+    margin: 0;
+    padding-left: 64px;
+    font-weight: 600;
+    font-size: 102px;
+    line-height: 96px;
+    z-index: 2;
+  }
